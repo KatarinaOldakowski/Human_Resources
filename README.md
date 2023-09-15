@@ -29,8 +29,8 @@ Data analysis projects included in this repository:
 Each project contains the following:
 
 - **Dataset:** CSV format file
-- **SQL Cleaning:** SQL querry for data cleaning
-- **SQL Analysis:** SQL querry for data analysis
+- **Data Cleaning:** SQL querry for data cleaning
+- **Data Analysis:** SQL querry for data analysis
 
 
 ## Resources
