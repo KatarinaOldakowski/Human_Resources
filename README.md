@@ -1,11 +1,4 @@
 
-
-sql
-
-
-
-
-
 # Welcome to the Human_Resources - Data Analysis Project Repository!  📈 
 
 This repository offers a comprehensive dataset, leverages data analysis techniques, and unveils valuable data insights. I aim to showcase my skills in data cleaning, exploration, visualization, and interpretation.
