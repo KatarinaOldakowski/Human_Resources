@@ -31,6 +31,8 @@ Each project contains the following:
 - **Dataset:** CSV format file
 - **Data Cleaning:** SQL querry for data cleaning
 - **Data Analysis:** SQL querry for data analysis
+- **Dashboard.pbix** PowerBi Dashboard
+- **Hr_dashboard.pdf** PDF PowerBi dashboard for easy download
 
 
 ## Resources
