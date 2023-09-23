@@ -1,3 +1,4 @@
+![hr_screenshot](https://github.com/KatarinaOldakowski/Human_Resources/assets/128411602/707c3787-b9fb-46e0-8669-024f2ef5b0dd)
 
 # Welcome to the Human_Resources - Data Analysis Project Repository!  📈 
 
@@ -41,5 +42,4 @@ Each project contains the following:
 - **Database:** MySQL
 - **GUI:** MySQL Workbench 🐬
 
-![hr_screenshot](https://github.com/KatarinaOldakowski/Human_Resources/assets/128411602/707c3787-b9fb-46e0-8669-024f2ef5b0dd)
 
